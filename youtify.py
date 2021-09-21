@@ -19,7 +19,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #!/urs/bin/env python
 
 __author__  = 'Francisco Braço-Forte'
-__version__ = '0.0.1'
+__version__ = '0.1.0'
 
 from typing import (
     Any,

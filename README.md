@@ -36,9 +36,11 @@ Simply do this:
 > -c, --cookies FILE
                         Youtube cookies file for account authentication.
   
-> -u, --urls FILE  File containing Spotify urls (blank lines are skipped).
+> -u, --urls FILE  
+                        File containing Spotify urls (blank lines are skipped).
   
-> -f, --folder DIR  Directory where tracks'll be stored.
+> -f, --folder DIR  
+                        Directory where tracks'll be stored.
   
 > -d, --debugging [LEVEL/NONE]
                         Outputs further information to stdout and to a log file. If the file doesn't exist, a new one is created. With level 1 (implicit or explicit) shows some info about execution and errors; level 2 is used for more technical elements.
@@ -67,5 +69,5 @@ If you gonna digit the links via command line and don't have more links, just pu
 
 ## Version log
 
-#### 0.0.1 - 13/9/2021 
+#### 0.1.0 - 13/9/2021 
 - First release.
